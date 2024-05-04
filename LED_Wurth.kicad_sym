@@ -143,7 +143,7 @@
           (xy -0.762 1.016)
         )
         (stroke (width 0) (type solid))
-        (fill (type color) (color 0 194 0 1))
+        (fill (type color) (color 194 0 0 1))
       )
       (pin passive line (at 2.54 0 180) (length 1.778)
         (name "K" (effects (font (size 1.27 1.27))))
