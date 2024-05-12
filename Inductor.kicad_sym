@@ -144,7 +144,7 @@
       )
     )
   )
-  (symbol "L_shielded_1.2uH_8.9A_Wurth_74279226101" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "L_shielded_1.2uH_8.9A_Wurth_74438356012" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "L" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -154,13 +154,13 @@
     (property "Footprint" "Inductor_SMD:L_Wurth_WE-MAPI_4020" (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.we-online.com/components/products/datasheet/74279226101.pdf" (at 0 -12.7 0)
+    (property "Datasheet" "https://www.we-online.com/components/products/datasheet/74438356012.pdf" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "Wurth Elektronik" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Part Number" "74279226101" (at 0 -7.62 0)
+    (property "Part Number" "74438356012" (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "Inductor ind usb3 typec" (at 0 0 0)
@@ -172,7 +172,7 @@
     (property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "L_shielded_1.2uH_8.9A_Wurth_74279226101_0_1"
+    (symbol "L_shielded_1.2uH_8.9A_Wurth_74438356012_0_1"
       (arc (start -1.27 0) (mid -1.905 0.6323) (end -2.54 0)
         (stroke (width 0) (type solid))
         (fill (type none))
@@ -190,7 +190,7 @@
         (fill (type none))
       )
     )
-    (symbol "L_shielded_1.2uH_8.9A_Wurth_74279226101_1_1"
+    (symbol "L_shielded_1.2uH_8.9A_Wurth_74438356012_1_1"
       (pin passive line (at -5.08 0 0) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
