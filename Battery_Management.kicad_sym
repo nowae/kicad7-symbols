@@ -173,7 +173,7 @@
     (property "Footprint" "Board:Arduino_UNO_R4_Minima" (at 0 -27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX17263.pdf" (at 0 -30.48 0)
+    (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX17263.pdf" (at 0 -30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "Maxim Integrated" (at 0 -22.86 0)
